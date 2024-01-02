@@ -1,0 +1,10 @@
+{
+    "name": "http-udp-server",
+    "version": "1.0.0",
+    "description": "HTTP server sending UDP messages",
+    "main": "http_udp_server.js",
+    "dependencies": {
+      "dgram": "^1.0.0"
+    }
+  }
+  
